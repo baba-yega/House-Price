@@ -12,20 +12,6 @@ I loaded a dataset of 1,500 houses, explored it with some basic plots, and train
 - `matplotlib` — basic plots
 - `scikit-learn` — train/test split, Linear Regression, evaluation metrics
 
-## How to run
-
-1. Make sure you have the libraries installed:
-```bash
-pip install scikit-learn pandas matplotlib numpy
-```
-
-2. Place `house_prices_dataset.csv` in the same folder as the notebook
-
-3. Open the notebook:
-```bash
-jupyter notebook project2_house_price.ipynb
-```
-
 ## Results
 
 - **Model:** Linear Regression
